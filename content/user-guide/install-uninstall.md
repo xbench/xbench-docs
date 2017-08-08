@@ -37,7 +37,7 @@ Change the destination folder if necessary and click **Install** to continue.
 Files are copied to the selected destination and the following window
 appears.
 
-![Installer Finished] (/user-guide/installer-finished.jpg)
+![Installer: Finished] (/user-guide/installer-finished.jpg)
 
 Click **Finish** to close the Window and start using ApSIC Xbench.
 
