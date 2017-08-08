@@ -23,21 +23,21 @@ Run the installation executable (for example,
 Setup.Xbench.x64.3.0.1080.exe). The installer welcome screen will
 appear.
 
-TODO: Insert screenshot
+![Installer: Welcome] (/user-guide/installer-welcome.jpg)
 
 Click **Next**. The license window appears. Please read carefully the license
 information to ensure you accept its terms.
 If the terms of the license are acceptable to you, please click **I Agree**. If
 they are not acceptable, please click **Cancel**.
 
-TODO: Insert screenshot
+![Installer: Choose install location] (/user-guide/installer-choose-location.jpg)
 
 Change the destination folder if necessary and click **Install** to continue.
 
 Files are copied to the selected destination and the following window
 appears.
 
-TODO: Insert screenshot
+![Installer Finished] (/user-guide/installer-finished.jpg)
 
 Click **Finish** to close the Window and start using ApSIC Xbench.
 

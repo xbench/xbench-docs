@@ -7,7 +7,7 @@ draft: true
 
 ApSIC Xbench features an **Internet** tab that provides an integration path with some information and terminology sources available in the Internet. The following illustration shows a search in Google done within ApSIC Xbench.
 
-TODO: Insert screenshot
+![Search internet](/user-guide/search-internet-example.jpg)
 
 ApSIC Xbench has a few predefined shortcuts, but the user can change or define new links as required. Defined shortcuts are accessible using one of the following methods:
 
@@ -23,7 +23,7 @@ Internet shortcuts are defined in **Internet**->**Define Links**. The shortcuts 
 
 1. Open the list of shortcuts in **Internet**->**Define Links**. To create a new entry, you just have to move down the keyboard cursor beyond the last entry with the arrow keys.
 
-TODO: Insert screenshot here
+![Settings-\>Internet tab](/user-guide/dialog-settings-internet-tab.png)
 
 2. Perform a search in the website source that you want to check. For example, do a search in Google of a term, for example *xbench*.
 

@@ -10,14 +10,14 @@ files and directories into your project by choosing **Project**->**Properties**
 or pressing **F2**. The **Project Properties** dialog appears as illustrated
 below.
 
-TODO: Insert screenshot
+![Project Properties: Files] (/user-guide/dialog-project-properties-files.tab.jpg)
 
 Click the **Add** button to add files to your project.
 
 Select the type of file that you will be adding to the ApSIC Xbench
 project:
 
-TODO: Insert screenshot
+![Project Properties: Add Files] (/user-guide/dialog-add-files-to-project.png)
 
 ApSIC Xbench supports the following file types:
 

@@ -13,7 +13,7 @@ ApSIC Xbench allows you to export the project items in the following formats:
 
 To export the contents of a project choose **Tools**->**Export Items**. The following dialog appears:
 
-TODO: Insert screenshot
+![Export Items] (/user-guide/dialog-export-items.jpg)
 
 In this dialog, you can export all items in a project, all items in the current query, only the items displayed in the current query (for example, if you are in overview mode, you only see a few items from each priority level), or all the items of a glossary that is a member of the project.
 
@@ -25,8 +25,7 @@ When exporting a tab-delimited text file or an Excel file, a header row can be a
 
 When exporting a TMX file, the source and target locales can be specified. You can specify any value in these fields. If you don't remember the locale code, you can press the ellipsis (...) button to open a helper window to enter the languages and countries.
 
-TODO: Insert screenshot
+![Source Language Selection] (/user-guide/dialog-source-language-selection.jpg)
 
 If you normally work with a limited set of files, you can click the arrow button of the combo box to open a shorter language list of recently used selections.
 
-∫
