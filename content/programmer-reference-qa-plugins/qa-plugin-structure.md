@@ -34,7 +34,7 @@ For every check function in the QA plug-in:
 The following flowchart shows how ApSIC Xbench uses these functions upon
 startup:
 
-TODO: Insert flowchart
+![Startup flowchart](/programmer-reference-qa-plugins/startup-flowchart.gif)
 
 ## QA Check Stage
 
@@ -62,7 +62,7 @@ The function calls used at this stage are:
 The following flowchart shows how ApSIC Xbench uses these functions upon a QA
 check start:
 
-TODO: Insert flowchart
+![Check flowchart](/programmer-reference-qa-plugins/check-flowchart.gif)
 
 The ProcessBegin call is used to notify the QA plug-in that a new check function
 has been launched and the QA plug-in should initialize all internal structures
