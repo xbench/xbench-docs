@@ -2,3 +2,6 @@ baseURL = "https://docs.xbench.net/"
 languageCode = "en-us"
 title = "ApSIC Xbench Documentation"
 theme = "docdock"
+
+[params]
+  editURL = "https://github.com/xbench/xbench-docs/edit/master/content/"
