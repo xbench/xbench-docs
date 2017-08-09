@@ -2,7 +2,7 @@
 title: "Signing Up"
 date: 2017-08-06T20:26:57+02:00
 weight: 4
-draft: true
+draft: false
 ---
 
 ApSIC Xbench licensing system requires that users sign up with their

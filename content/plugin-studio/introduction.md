@@ -2,7 +2,7 @@
 title: "Introduction"
 date: 2017-08-09T12:07:56+02:00
 weight: 3
-draft: true
+draft: false
 ---
 
 The ApSIC Xbench Plugin for SDL Trados Studio 2014 allows you to:

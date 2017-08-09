@@ -2,7 +2,7 @@
 title: "Searching the Internet"
 date: 2017-08-06T23:17:59+02:00
 weight: 22
-draft: true
+draft: false
 ---
 
 ApSIC Xbench features an **Internet** tab that provides an integration path with some information and terminology sources available in the Internet. The following illustration shows a search in Google done within ApSIC Xbench.

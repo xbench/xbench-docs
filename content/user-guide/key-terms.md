@@ -2,7 +2,7 @@
 title: "Key Terms"
 date: 2017-08-06T23:09:24+02:00
 weight: 12
-draft: true
+draft: false
 ---
 ApSIC Xbench allows you to define one or more files as *Key Terms*. To do so, when in the list of glossaries in **Project Properties**, choose the **Key Terms** check box. A green star will appear next to the glossary entry as shown in the illustration below to indicate that the glossary belongs to the **Key Terms** category.
 

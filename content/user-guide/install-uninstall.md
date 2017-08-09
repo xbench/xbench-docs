@@ -2,7 +2,7 @@
 title: "Installing and Uninstalling"
 date: 2017-08-06T19:59:39+02:00
 weight: 2
-draft: true
+draft: false
 ---
 
 ## Installing ApSIC Xbench

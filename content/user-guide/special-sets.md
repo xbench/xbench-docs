@@ -2,7 +2,7 @@
 title: "Special Sets"
 date: 2017-08-06T23:05:26+02:00
 weight: 8
-draft: true
+draft: false
 ---
 
 The following table shows the characters that are matched by the special sets that can be used in regular expressions and Microsoft Word wildcard characters:

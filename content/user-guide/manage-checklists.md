@@ -2,7 +2,7 @@
 title: "Managing Checklists"
 date: 2017-08-06T23:11:03+02:00
 weight: 14
-draft: true
+draft: false
 ---
 
 Checklists are a very useful Quality Assurance (QA) function in ApSIC Xbench. Built on ApSIC Xbench search engine, checklists are a compilation of searches that can be run in batch to identify segments with problems. Typically, you store in checklists common pitfalls, such as use of banned terms or expressions. It is a very good practice to compile client feedback in checklists to make sure that no feedback is forgotten in subsequent deliveries of translations.

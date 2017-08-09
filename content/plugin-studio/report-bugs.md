@@ -1,7 +1,7 @@
 ---
 title: "Reporting Bugs and Suggestions"
 date: 2017-08-09T12:33:14+02:00
-draft: true
+draft: false
 weight: 6
 ---
 

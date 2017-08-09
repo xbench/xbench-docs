@@ -2,7 +2,7 @@
 title: "Searching for Terms"
 date: 2017-08-06T22:38:18+02:00
 weight: 6
-draft: true
+draft: false
 ---
 
 ApSIC Xbench has a very powerful search engine. For example, you can

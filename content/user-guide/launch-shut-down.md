@@ -2,7 +2,7 @@
 title: "Launching and Shutting Down"
 date: 2017-08-06T20:16:25+02:00
 weight: 3
-draft: true
+draft: false
 ---
 
 ApSIC Xbench is an application that, once launched, must be explicitly

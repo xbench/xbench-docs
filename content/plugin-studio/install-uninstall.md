@@ -2,7 +2,7 @@
 title: "Installing and Uninstalling"
 date: 2017-08-09T12:10:19+02:00
 weight: 4
-draft: true
+draft: false
 ---
 
 

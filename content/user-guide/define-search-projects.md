@@ -2,7 +2,7 @@
 title: "Defining Search Projects"
 date: 2017-08-06T21:44:29+02:00
 weight: 5
-draft: true
+draft: false
 ---
 The first step to use the powerful search features of ApSIC Xbench is to
 define the reference material for your project. To do so, add the relevant
