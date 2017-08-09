@@ -2,7 +2,7 @@
 title: "Quick Tips"
 date: 2017-08-06T23:16:24+02:00
 weight: 20
-draft: true
+draft: false
 ---
 
 This section focuses on the most important features of ApSIC Xbench and aims to be a quick view of what ApSIC Xbench can do.

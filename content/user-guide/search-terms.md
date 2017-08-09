@@ -2,7 +2,7 @@
 title: "Searching for Terms"
 date: 2017-08-06T22:38:18+02:00
 weight: 6
-draft: true
+draft: false
 ---
 
 ApSIC Xbench has a very powerful search engine. For example, you can
@@ -10,7 +10,7 @@ search by source term, target term, or both source and target term. ApSIC
 Xbench also allows you to search using regular expressions or Microsoft
 Word wildcards, and combine them using the PowerSearch mode.
 
-TODO: Insert screenshot
+![Search example] (/user-guide/dialog-main-window-search-tab-clipboard.png)
 
 Likely, most of your searches will be done by source term. However,
 your need to search for a term will not originate while you are in the

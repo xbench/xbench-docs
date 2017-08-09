@@ -2,7 +2,7 @@
 title: "Overview"
 date: 2017-08-06T19:19:42+02:00
 weight: 1
-draft: true
+draft: false
 ---
 ApSIC Xbench allows you to organize and search your bilingual
 reference terminology. ApSIC Xbench also features several Quality

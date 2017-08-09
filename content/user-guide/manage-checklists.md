@@ -2,7 +2,7 @@
 title: "Managing Checklists"
 date: 2017-08-06T23:11:03+02:00
 weight: 14
-draft: true
+draft: false
 ---
 
 Checklists are a very useful Quality Assurance (QA) function in ApSIC Xbench. Built on ApSIC Xbench search engine, checklists are a compilation of searches that can be run in batch to identify segments with problems. Typically, you store in checklists common pitfalls, such as use of banned terms or expressions. It is a very good practice to compile client feedback in checklists to make sure that no feedback is forgotten in subsequent deliveries of translations.
@@ -24,11 +24,11 @@ Checklists are managed in the **Checklist Manager** tab. You can open the **Chec
 
 The **Checklist Manager** allows you to work with your Project and Personal Checklists.
 
-TODO: Insert screenshot
+![Checklist Manager](/user-guide/dialog-main-window-checklist-manager-tab.jpg)
 
-In the **Checklist Manager*, you can create new Personal Checklists by choosing **Checklist**->**New** when the cursor is placed on **Personal Checklists** group in the navigation tree. You can also add an existing checklist with **Checklist**->**Add**. All of the personal checklists listed under **Personal Checklists** will be run when you click **Run Personal Checklists** or **Check Ongoing Translation** on the **QA** tab.
+In the **Checklist Manager**, you can create new Personal Checklists by choosing **Checklist**->**New** when the cursor is placed on **Personal Checklists** group in the navigation tree. You can also add an existing checklist with **Checklist**->**Add**. All of the personal checklists listed under **Personal Checklists** will be run when you click **Run Personal Checklists** or **Check Ongoing Translation** on the **QA** tab.
 
-The *<Project>* checklist is stored in the ApSIC Xbench project file (.xbp extension), and cannot be removed from the **Project Checklists** group in the navigation tree. You can add more checklists to the **Project Checklists** group, which will be run when you click **Run Project Checklists** or **Check Ongoing Translation** on the QA tab. The items in these additional project checklists are not saved to the ApSIC Xbench project file itself but they become linked to the project, so next time you open the ApSIC Xbench project file, any checklists linked to it will also appear here.
+The *\<Project>* checklist is stored in the ApSIC Xbench project file (.xbp extension), and cannot be removed from the **Project Checklists** group in the navigation tree. You can add more checklists to the **Project Checklists** group, which will be run when you click **Run Project Checklists** or **Check Ongoing Translation** on the QA tab. The items in these additional project checklists are not saved to the ApSIC Xbench project file itself but they become linked to the project, so next time you open the ApSIC Xbench project file, any checklists linked to it will also appear here.
 
 The entries in the checklist selected on the navigation tree are shown on the body of the window. You can sort by any of the columns. If you wish to disable an individual entry, you can right-click it and choose **Disable**.
 
@@ -40,7 +40,7 @@ When you click on a column heading, the list is sorted by that column alphabetic
 
 Individual checklist entries can be added or edited. Fields available are the same that can be specified in the **Search Options** pane of the **Search** tab.
 
-TODO: Insert screenshot
+![Edit Checklist Item](/user-guide/dialog-edit-checklist-item.jpg)
 
 In addition, you can also specify a category for the checklist entry in the Category combo box. You can specify here any category name. If you wish to use a previously defined category name, you can expand the combo box by clicking the arrow button and choose it from the list. If you have created category names, you will be able to run selectively subsets of categories when you run a project or personal checklist from the QA tab using the Run Project Checklists or Run Personal Checklists buttons.
 
@@ -54,20 +54,20 @@ To inherit a checklist, do the following.
    contains it. The name specified here does not need to match the 
    checklist display name.
 
-TODO: Insert screenshot
+	![Add Inheritance](/user-guide/dialog-add-inheritance.jpg)
 
 
 3. Add any required checklists following steps 1 and 2. The dialog will
-   show the inherited items with the TODO: Insert icon icon. You can override these
+   show the inherited items with the <img class="inline" style="vertical-align: middle" src ="/user-guide/up-folder.gif" /> icon. You can override these
    inherited items but not edit or delete them.
 
-TODO: Insert screenshot
+![Checlist Manager with Inheritance](/user-guide/dialog-main-window-checklist-manager-tab-with-inheritance.jpg)
 
 Once you set an inheritance relationship, any changes or additions you make in the parent checklist will be inherited.
 
 The Project Checklist is saved automatically when you save the project. If you add entries to the Project Checklist and then shut down ApSIC Xbench, you will be prompted to save the project.
 
-Changes made to all checklists are saved automatically, except for the *<Project>* checklist that will be saved with the .xbp Xbench project file.
+Changes made to all checklists are saved automatically, except for the *\<Project>* checklist that will be saved with the .xbp Xbench project file.
 
 If you wish to make changes to a checklist but not save them to it, you can create a duplicate of a checklist right-clicking on it and choosing **Save as**.
 

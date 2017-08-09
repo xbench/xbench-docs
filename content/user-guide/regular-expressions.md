@@ -2,7 +2,7 @@
 title: "Regular Expressions and Microsoft Word Wildcards"
 date: 2017-08-06T23:06:24+02:00
 weight: 7
-draft: true
+draft: false
 ---
 
 ApSIC Xbench allows you to perform powerful searches using regular expressions or Microsoft Word wildcards. To activate these search modes, do the following:

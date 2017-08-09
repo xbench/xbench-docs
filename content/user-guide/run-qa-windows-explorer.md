@@ -2,7 +2,7 @@
 title: "Running QA from Explorer"
 date: 2017-08-06T23:11:55+02:00
 weight: 15
-draft: true
+draft: false
 ---
 
 ApSIC Xbench includes a shell extension that allows you to start a QA session right from Windows Explorer. This can be very handy when you want to run a simple QA pass of one or more files or of a directory.

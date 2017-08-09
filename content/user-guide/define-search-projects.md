@@ -2,7 +2,7 @@
 title: "Defining Search Projects"
 date: 2017-08-06T21:44:29+02:00
 weight: 5
-draft: true
+draft: false
 ---
 The first step to use the powerful search features of ApSIC Xbench is to
 define the reference material for your project. To do so, add the relevant
@@ -10,14 +10,14 @@ files and directories into your project by choosing **Project**->**Properties**
 or pressing **F2**. The **Project Properties** dialog appears as illustrated
 below.
 
-TODO: Insert screenshot
+![Project Properties: Files] (/user-guide/dialog-project-properties-files.tab.jpg)
 
 Click the **Add** button to add files to your project.
 
 Select the type of file that you will be adding to the ApSIC Xbench
 project:
 
-TODO: Insert screenshot
+![Project Properties: Add Files] (/user-guide/dialog-add-files-to-project.png)
 
 ApSIC Xbench supports the following file types:
 
