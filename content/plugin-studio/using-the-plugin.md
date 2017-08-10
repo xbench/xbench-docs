@@ -24,7 +24,7 @@ The **Run QA in Current Project** action does the following:
 1.	Creates an ApSIC Xbench project (.xbp extension) with the following items:
 
 	*	All sdlxliff files for the current project loaded as ongoing translation 
-		and with medium priority (red color). If your project has more than one
+		and with medium priority (maroon color). If your project has more than one
 		target language, the **Choose Language** dialog will appear.
 	![Run QA in Current Project](/plugin-studio/dialog-choose-language.png)
 	*	The first file-based translation memory with *.sdltm* extension
