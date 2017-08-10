@@ -38,7 +38,7 @@ then select the language in **List of Checks**. Then click
 
 The window that appears shows you all spell-checking issues, grouped by 
 misspelled term. Browse through the list, and double-click on those 
-issues to move the misspelled word to the **Real Misspelling** list.
+issues to move the misspelled word to the **Real Misspellings** list.
 
 Once you have gone through the whole list, click **OK** to add the segments 
 with misspelling issues to the main QA report.
