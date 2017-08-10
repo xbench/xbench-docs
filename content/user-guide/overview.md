@@ -46,7 +46,7 @@ bilingual formats:
 * Déjà Vu X/Idiom files, including Satellite and Pack&Go (*.wsprj,
   *.dvprj, *.dvsat, *.dvpng)
 * Déjà Vu X/Idiom memories (*.wstm, *.dvmdb)
-* Déjà Vu X/Idiom termbases (*.wstb, *.dvtdb)
+* Déjà Vu X/Idiom termbases (*.wstd, *.dvtdb)
 * Logoport RTF files (*.rtf)
 * Microsoft software glossaries (*.csv)
 * Mac OS X glossaries (*.ad, *.lg)
