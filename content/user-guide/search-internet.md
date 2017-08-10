@@ -13,7 +13,7 @@ ApSIC Xbench has a few predefined shortcuts, but the user can change or define n
 
 Move to the **Internet** tab, select the desired source in the **Website** field, type the search string in the **Text to search** field and press **Enter**.
 
-When ApSIC Xbench is the current application, press **Alt**+*n*, where *n* can be any number from 0 to 9. The 0 corresponds to the 10th entry in the list. The current term in the **Source** field of the **Project** tab or in the **Text to search** field of the **Internet** tab will be used for the search. The number corresponds to the sequence number of the shortcut in **Tools**->**Settings**->**Internet**.
+When ApSIC Xbench is the current application, press **Alt**+*n*, where *n* can be any number from 0 to 9. The 0 corresponds to the 10th entry in the list. The current term in the **Source** field of the **Search** tab or in the **Text to search** field of the **Internet** tab will be used for the search. The number corresponds to the sequence number of the shortcut in **Tools**->**Settings**->**Internet**.
 
 From any Windows application, highlight the term searched, and press the key combination **Ctrl+Insert** followed by **Ctrl+Alt**+*n*, where the number *n* must be typed in the numeric keypad with **Num Lock** set.
 
