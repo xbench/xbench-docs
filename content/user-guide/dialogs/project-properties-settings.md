@@ -1,5 +1,5 @@
 ---
-title: "Project Properties Settings"
+title: "Project Properties - Settings"
 date: 2017-08-10T09:25:23+02:00
 weight: 6
 draft: false

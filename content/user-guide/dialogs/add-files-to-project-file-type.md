@@ -28,11 +28,8 @@ The **File Type** tab lets you add a bilingual corpus with any of the following 
 *	**Trados Studio Memory (*.sdltm)**. A Trados Studio Translation Memory in .sdltm format.
 *	**memoQ File**. A memoQ XLIFF file with .mqxlz or .mqxliff extension, a memoQ hand-off file (\*.mqout), a memoQ hand-back
 	file (\*.mqback) file, or a memoQ termbase file (\*.csv). 
-*	**SDLX File (*.itd)**. An SDLX .itd file. 
-{{% notice note %}}
-This option requires that SDLX is installed on the machine. 
-{{% /notice %}}
-*	**SDLX Memory (*.mdb)**. An individual SDLX .mdb file containing a translation memory.
+*	**SDLX File (\*.itd)**. An SDLX .itd file. **Note:** This option requires that SDLX is installed on the machine. 
+*	**SDLX Memory (\*.mdb)**. An individual SDLX .mdb file containing a translation memory.
 *	**STAR Transit 2.6/XV/NXT Directory**. A directory that contains Transit language pairs.
 *	**PO File (*.po)**. A bilingual .po file, normally generated with gettext.
 *	**IBM TM/OpenTM2 Dictionary (*.sgm)**. An IBM TranslationManager or OpenTM2 dictionary in SGML format. 

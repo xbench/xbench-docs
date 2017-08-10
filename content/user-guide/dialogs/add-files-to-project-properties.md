@@ -21,7 +21,7 @@ The **Properties** tab has these fields:
 	search results, indicating the number of entries consolidated under the **#** column.
 *	**Do not reload with Refresh (F5)**. If you check this box, ApSIC Xbench will consider the bilingual corpus as static, and it will not
 	try to reload it from disk if you press **F5** or select **Project->Refresh Content**.
-*	**Ongoing translation**. If you check this box, you are telling ApSIC Xbench that the bilingual corpus is an ongoing translation 
+*	**Ongoing translation**. If you check this box, you are telling ApSIC Xbench that the bilingual corpus is an *ongoing translation*
 	(i.e. the translation you are working on). ApSIC Xbench displays some additional useful information for a corpus defined as ongoing 
 	translation. For example, Xbench flags with a red dot those translations that are new (i.e. are not 100% matches) and also shows 
 	the untranslated segments. Also, files defined as ongoing translation are elegible for the QA features.
