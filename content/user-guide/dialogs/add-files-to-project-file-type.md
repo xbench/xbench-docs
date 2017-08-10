@@ -43,7 +43,7 @@ The **File Type** tab lets you add a bilingual corpus with any of the following 
 *	**Déjà Vu X/Idiom File (*.wsprj, *.dvprj, *.dvsat, *.dvpng)**. A Déjà Vu or Idiom database of project translation files, with 
 	extensions .wsprj, .dvprj, .dvsat, or .dvpng.
 *	**Déjà Vu X/Idiom Memory (*.wstm, *.dvmdb)**. A Déjà Vu or Idiom translation memory, with extensions .dvmdb or .wstm.
-*	**Déjà Vu X/Idiom Termbase (*.wstd, *.dvtdb)**. A Déjà Vu or Idiom termbase, with extensions .dvtdb or .wstb.
+*	**Déjà Vu X/Idiom Termbase (*.wstd, *.dvtdb)**. A Déjà Vu or Idiom termbase, with extensions .dvtdb or .wstd.
 *	**Logoport RTF (*.rtf)**. An individual Logoport .rtf file or a directory containing Logoport .rtf files.
 *	**Microsoft Glossary (*.csv)**. A Microsoft software glossary, made publicly available by Microsoft via MSDN and containing all 
 	the strings of a Microsoft software application.
