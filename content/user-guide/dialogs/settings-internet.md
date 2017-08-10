@@ -5,7 +5,8 @@ weight: 20
 draft: false
 ---
 
-The **Internet** tab lets you define the pattern URLs that you use to perform targeted searches in the Internet, for example in a dictionary.
+The **Internet** tab lets you define the pattern URLs that you use to perform targeted searches in
+the Internet, for example in a dictionary.
 
 You can have as many entries as you wish, but only the first 10 will have a hotkey assigned, 
 either Alt+*n* within ApSIC Xbench or with Ctrl+Alt+*n* (with the numeric keypad in this latter case 
