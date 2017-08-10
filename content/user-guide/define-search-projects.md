@@ -84,7 +84,7 @@ ApSIC Xbench supports the following file types:
 * **Déjà Vu X/Idiom Memory (*.wstm, *.dvmdb)**. A Déjà Vu or Idiom
   translation memory, with extensions .dvmdb or .wstm.
 * **Déjà Vu X/Idiom Termbase (*.wstd, *.dvtdb)**. A Déjà Vu or Idiom
-  termbase, with extensions .dvtdb or .wstb.
+  termbase, with extensions .dvtdb or .wstd.
 * **Logoport RTF (*.rtf)**. An individual Logoport .rtf file or a directory
   containing Logoport .rtf files.
 * **Microsoft Glossary (*.csv)**. A Microsoft software glossary, made
