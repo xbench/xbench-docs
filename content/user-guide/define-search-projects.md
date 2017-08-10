@@ -206,9 +206,10 @@ TBX/MARTIF
 <td>
 <ol>
 <li>
-The <strong>File List</strong> tab appears, opening
-automatically the <strong>Add Glossary</strong>
-dialog. Select all the files of the
+The <strong>File List</strong> tab appears. Click
+Add File or Add Folder to add files
+or folders of files from the selected
+type. Select all the files of the
 current type in this window. If you
 need to pick up more files from
 another directory, when you are
