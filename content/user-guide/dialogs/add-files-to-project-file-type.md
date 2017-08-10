@@ -51,7 +51,7 @@ The **File Type** tab lets you add a bilingual corpus with any of the following 
 *	**Qt Linguist File (*.ts)**. A translation file in the format for the Qt Framework.
 *	**Passolo Glossary (*.glo)**. A Passolo glossary, with *.glo extension.
 *	**Transifex Project**. An online Transifex project.
-*	**Matecat Job**. An online Matecat job, both from [www.matecat.com]({{< relref "https://www.matecat.com"}} >) or self-hosted.
+*	**Matecat Job**. An online Matecat job, both from [www.matecat.com]<(https://www.matecat.com) or self-hosted.
 *	**Remote Xbench Server**. A reference to a Remote ApSIC Xbench Server.
 
 Please select the format of the bilingual corpus that your are adding and then click **Next** to continue.
