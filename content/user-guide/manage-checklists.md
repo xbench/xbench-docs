@@ -9,7 +9,7 @@ Checklists are a very useful Quality Assurance (QA) function in ApSIC Xbench. Bu
 
 In the **QA** tab of the main window, you will be able to run these checklists against all files defined as ongoing translation in the ApSIC Xbench project.
 
-Since checklists are built on top of ApSIC Xbench search engine, anything that can be searched for in ApSIC Xbench can be added to a checklist. Actually, one useful means of adding a search into the checklist is by searching it first in the **Project** tab, and then clicking **Add Last Search to Checklist** in the **Search Options** pane of the main window.
+Since checklists are built on top of ApSIC Xbench search engine, anything that can be searched for in ApSIC Xbench can be added to a checklist. Actually, one useful means of adding a search into the checklist is by searching it first in the **Search** tab, and then clicking **Add Last Search to Checklist** in the **Search Options** pane of the main window.
 
 There are two types of checklists: *Project Checklist* and *Personal Checklist*.
 
