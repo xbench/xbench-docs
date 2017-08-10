@@ -27,5 +27,5 @@ When exporting a TMX file, the source and target locales can be specified. You c
 
 ![Source Language Selection] (/user-guide/dialog-source-language-selection.jpg)
 
-If you normally work with a limited set of files, you can click the arrow button of the combo box to open a shorter language list of recently used selections.
+If you normally work with a limited set of languages, you can click the arrow button of the combo box to open a shorter language list of recently used selections.
 
