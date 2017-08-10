@@ -45,7 +45,7 @@ selected, except **Target same as Source**.
 	clicking on **Run Project Checklists**.
 *	Perform *only* the searches defined by the current Personal Checklists 
 	by clicking on **Run Personal Checklists**. To change the current 
-	Personal Checklists, choose **Tools->Manage Checklists**.
+	Personal Checklists, choose **View->Checklist Manager**.
 *	Export the displayed QA results by right-clicking and choose 
 	**Export QA Results** to the following formats: HTML, tab-delimited text, 
 	Excel, or XML.
