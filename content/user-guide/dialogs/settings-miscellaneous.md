@@ -25,7 +25,7 @@ You can define here the following settings:
 	will reduce false alarms if you leave this check box unchecked.
 *	**Show metadata in exported QA reult**s. When enabled, ApSIC Xbench will show the segment metadata in the
 	Comments column of the exported QA report. 
-*	**Default Project Directory**. This field allows you to specify the default folder for your ApSIC Xbench projects.
+*	**Default project directory**. This field allows you to specify the default folder for your ApSIC Xbench projects.
 *	**Manage Cloud Settings**. This button allows you to set which Xbench settings, such as URLs or colors,
 	should be replicated to the cloud so that they are also available in other computers from which you sign in to
 	your Xbench account.
