@@ -155,8 +155,8 @@ Other TMX editors might have different values for this field.
 Please check your TMX editor's documentation for the suitable values. 
 
 This makes ApSIC Xbench a very useful and efficient tool to make 
-global changes in terminology for these formats. If you afterwards want 
-to regress the changes made, you can reload the ApSIC Xbench project with 
+global changes in terminology for these formats. If you afterwards want to
+ensure that all changes were made correctly, you can reload the ApSIC Xbench project with 
 **Project->Reload** or **Project->Refresh Content**.
 
 ## Search templates
