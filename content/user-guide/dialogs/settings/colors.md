@@ -1,5 +1,5 @@
 ---
-title: "Settings - Colors"
+title: "Colors"
 date: 2017-08-10T10:12:40+02:00
 weight: 19
 draft: false

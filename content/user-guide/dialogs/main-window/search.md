@@ -1,5 +1,5 @@
 ---
-title: "Main Window - Search"
+title: "Search"
 date: 2017-08-09T16:22:38+02:00
 weight: 1
 draft: false

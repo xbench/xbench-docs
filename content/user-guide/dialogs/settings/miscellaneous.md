@@ -1,5 +1,5 @@
 ---
-title: "Settings - Miscellaneous"
+title: "Miscellaneous"
 date: 2017-08-10T10:13:02+02:00
 weight: 21
 draft: false

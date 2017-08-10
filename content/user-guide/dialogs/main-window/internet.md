@@ -1,7 +1,7 @@
 ---
-title: "Main Window - Internet"
+title: "Internet"
 date: 2017-08-10T09:11:51+02:00
-weight: 2
+weight: 3
 draft: false
 ---
 

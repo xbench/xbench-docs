@@ -6,7 +6,7 @@ draft: false
 ---
 
 This tab allows you to manage your Personal and Project Checklists. A checklist is a series of searches that 
-can be run in batch from the [QA tab]({{< relref "user-guide/dialogs/main-window-qa.md" >}}).
+can be run in batch from the [QA tab]({{< relref "user-guide/dialogs/main-window/qa.md" >}}).
 
 Typically, you store in checklists common pitfalls in the translation, such as use of banned terms or expressions. 
 It is a very good practice to compile client feedback in checklists to make sure that no feedback is forgotten in 

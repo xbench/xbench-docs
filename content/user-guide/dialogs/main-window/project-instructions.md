@@ -1,5 +1,5 @@
 ---
-title: "Main Window - Project Instructions"
+title: "Project Instructions"
 date: 2017-08-10T09:21:58+02:00
 weight: 4
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Settings - Text Editor"
+title: "Text Editor"
 date: 2017-08-10T10:13:16+02:00
 weight: 22
 draft: false

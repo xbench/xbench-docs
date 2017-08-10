@@ -1,5 +1,5 @@
 ---
-title: "Settings - Studio Plugin"
+title: "Studio Plugin"
 date: 2017-08-10T10:13:45+02:00
 weight: 24
 draft: false

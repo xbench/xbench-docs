@@ -1,5 +1,5 @@
 ---
-title: "Add Files to Project File - Directory Settings"
+title: "Directory Settings"
 date: 2017-08-10T09:31:25+02:00
 weight: 11
 draft: false

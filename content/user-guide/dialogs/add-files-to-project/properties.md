@@ -1,5 +1,5 @@
 ---
-title: "Add Files to Project - Properties"
+title: "Properties"
 date: 2017-08-10T09:31:02+02:00
 weight: 10
 draft: false

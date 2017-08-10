@@ -1,11 +1,12 @@
 ---
-title: "Special Settings - Select Language"
+title: "Select Language"
 date: 2017-08-10T10:44:18+02:00
 weight: 26
 draft: false
 ---
 
 The format selected is a multilingual format, and therefore each term can have more than two languages.
+
 This window allows you to define the source and target languages that should appear in the Source and
 Target columns of the ApSIC Xbench results for a search.
 

@@ -19,12 +19,12 @@ When the **Internet** tab is the active one, the **Internet** menu has the follo
 	where the captured information can be edited before being added to the list of 
 	URLs in **Define Links**.
 *	**Define Links**. Opens the dialog where you can define Internet links in ApSIC 
-	Xbench. For more information, refer to [Settings - Internet]({{< relref "user-guide/dialogs/settings-internet.md" >}}).
+	Xbench. For more information, refer to [Settings - Internet]({{< relref "user-guide/dialogs/settings/internet.md" >}}).
 *	**Go to \<item>**. Opens the predefined URL. ApSIC Xbench can store any number of 
 	predefined URLs. The first 10 entries are assigned the Alt+n key combination, where 
 	*n* is a number from 0 to 9. Number 0 corresponds to the 10th entry in the list. 
 	ApSIC Xbench also allows accessing these URLs from any Windows application by using the 
 	Ctrl+Alt+*n* key combination. In this latter case, the number n should be pressed in the 	
-	numeric key pad, when the Num Lock is set. See [Settings - Internet]({{< relref "user-guide/dialogs/settings-internet.md" >}}) to learn how to define predefined URLs.
+	numeric key pad, when the Num Lock is set. See [Settings - Internet]({{< relref "user-guide/dialogs/settings/internet.md" >}}) to learn how to define predefined URLs.
 
 When a tab other than the **Internet** tab is active, only the **Go to \<items>** menu items are shown. 

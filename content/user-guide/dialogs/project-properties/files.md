@@ -1,5 +1,5 @@
 ---
-title: "Project Properties - Files"
+title: "Files"
 date: 2017-08-10T09:25:15+02:00
 weight: 5
 draft: false

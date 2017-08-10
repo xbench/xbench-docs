@@ -1,5 +1,5 @@
 ---
-title: "Special Settings - Deja Vu/Idiom"
+title: "Deja Vu/Idiom"
 date: 2017-08-10T10:44:48+02:00
 weight: 28
 draft: false

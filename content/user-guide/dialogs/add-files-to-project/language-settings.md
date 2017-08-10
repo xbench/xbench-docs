@@ -1,5 +1,5 @@
 ---
-title: "Add Files to Project File - Language Settings"
+title: "Language Settings"
 date: 2017-08-10T09:31:37+02:00
 weight: 12
 draft: false

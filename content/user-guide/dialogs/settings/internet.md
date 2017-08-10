@@ -1,5 +1,5 @@
 ---
-title: "Settings - Internet"
+title: "Internet"
 date: 2017-08-09T17:18:08+02:00
 weight: 20
 draft: false

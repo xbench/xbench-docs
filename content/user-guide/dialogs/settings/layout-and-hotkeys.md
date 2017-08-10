@@ -1,5 +1,5 @@
 ---
-title: "Settings - Layout & Hotkeys"
+title: "Layout & Hotkeys"
 date: 2017-08-10T10:12:34+02:00
 weight: 18
 draft: false

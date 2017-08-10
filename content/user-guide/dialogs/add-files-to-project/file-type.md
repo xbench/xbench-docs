@@ -1,5 +1,5 @@
 ---
-title: "Add Files to Project - File Type"
+title: "File Type"
 date: 2017-08-10T09:30:47+02:00
 weight: 8
 draft: false
