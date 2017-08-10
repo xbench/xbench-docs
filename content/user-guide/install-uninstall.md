@@ -41,8 +41,7 @@ appears.
 
 Click **Finish** to close the Window and start using ApSIC Xbench.
 
-A link to the ApSIC Xbench executable is installed on the **Start**-
->**Programs**->**ApSIC Tools**->**Xbench** path, together with the
+A link to the ApSIC Xbench executable is installed on the **Start**->**Programs**->**ApSIC Tools**->**Xbench** path, together with the
 documentation.
 
 ## Uninstalling ApSIC Xbench
