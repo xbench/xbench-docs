@@ -213,7 +213,7 @@ The settings available on this tab are:
 *	**Add first local termbase**. When checked, the plugin will add the first local termbase defined 
 	for the SDL Trados Studio project to the Xbench QA project created from the plugin. The termbase
 	will be assigned high priority in the Xbench project.
-*	**Add first local translation memory**. When checked, the plugin will add the first local termbase
+*	**Add first local translation memory**. When checked, the plugin will add the first local translation memory
 	defined for the SDL Trados Studio project to the Xbench QA project created from the plugin. The 
 	translation memory will be assigned low priority in the Xbench project.
 *	**Use this Xbench project template**. When checked, it will instruct the plugin to add Studio files to the 
