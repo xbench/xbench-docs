@@ -5,4 +5,5 @@ weight: 27
 draft: false
 ---
 
-Here you can choose the **Source Language** and the **Target Language** of the SDLX memory.
+Here you can choose the **Source Language** and the **Target Language** of the
+SDLX memory.
