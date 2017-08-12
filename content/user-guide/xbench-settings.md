@@ -148,7 +148,7 @@ Settings in this tab are the following:
 * **Match whole words in QA check for key terms**. If this check box is checked, the target term 
   of an entry of a glossary defined as key terms should match as a whole word (please note 
   that the source term is always matched as a whole word).
-* **Show metadata in exported QA results**. When enabled, ApSIC Xbench will show the segment 
+* **Show metadata in exported QA reports**. When enabled, ApSIC Xbench will show the segment 
   metadata in the Comments column of the exported QA report.
 * **Default project directory**. This field allows you to specify the default folder for your 
   ApSIC Xbench projects.

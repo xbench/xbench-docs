@@ -30,7 +30,7 @@ You can define here the following settings:
   will force the condition that the key term target text must match a whole
   word in the segment target text. For declined languages you will reduce false
   alarms if you leave this check box unchecked.
-* **Show metadata in exported QA reult**s. When enabled, ApSIC Xbench will show
+* **Show metadata in exported QA reports**. When enabled, ApSIC Xbench will show
   the segment metadata in the Comments column of the exported QA report. 
 * **Default project directory**. This field allows you to specify the default
   folder for your ApSIC Xbench projects.
