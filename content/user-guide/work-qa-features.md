@@ -27,8 +27,9 @@ The QA functions try to find segments with the following potential problems:
   and target
 * Segments that deviate from the key terms of the project
 * Segments that meet the search criteria of items in the Project or 
-  Personal Checklists. See Managing Checklists for more information 
-  about this feature.
+  Personal Checklists. See 
+  [Managing Checklists]({{<relref "/user-guide/manage-checklists.md">}}) for
+  more information about this feature.
 * If you have installed dictionaries with
   **Tools->Spell-Checking Dictionaries**, segments with spell-checking issues. 
 
