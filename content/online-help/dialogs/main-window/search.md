@@ -7,7 +7,7 @@ draft: false
 
 From this window, you will be able to perform searches in the source text, in
 the target text, or both. You can also use the **Search Options** pane
-(**View->Search Options**) to further refine the search or to filter the
+(**View->Show Search Options**) to further refine the search or to filter the
 segments considered by the search. The search results are shown
 according to their priority level, as defined in the **Project Properties**.
 
@@ -34,7 +34,7 @@ sources on a single screen. If you need more detail, you can choose
 You can also double-click or press **Ctrl+Enter** on any entry in the desired
 priority level of the search results to zoom by priority level.
 
-When you activate the **Search Options** pane with **View->Search Options**,
+When you activate the **Search Options** pane with **View->Show Search Options**,
 the following search settings are available:
 
 * **Show All Matches**: When checked, instead of showing an overview of search
@@ -72,7 +72,7 @@ or **Both** with the following settings:
   were not really very careful with their typing.
 
 There are available three search modes. The search mode is selected on the
-**Search Options** pane (**View->Search Options**):
+**Search Options** pane (**View->Show Search Options**):
 
 * **Simple**: The search expression is considered plain text.
 * **Regular Expresions**: The search expression follows the 

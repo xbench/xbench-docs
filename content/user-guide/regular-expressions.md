@@ -7,7 +7,7 @@ draft: false
 
 ApSIC Xbench allows you to perform powerful searches using regular expressions or Microsoft Word wildcards. To activate these search modes, do the following:
 
-1. Choose **View**->**Search Options** to show the **Search Options** pane.
+1. Choose **View**->**Show Search Options** to show the **Search Options** pane.
 2. Expand the **Search Mode** drop-down and choose **Regular
 Expressions** or **MS Word Wildcards**.
 3. You will notice that an icon will appear next to the **Source Term** and

@@ -90,7 +90,7 @@ terminology for your project.
 
 ## Filtering the search scope
 
-The **Search Options** pane (**View->Search Options**) allows you to 
+The **Search Options** pane (**View->Show Search Options**) allows you to 
 narrow the scope for the search. The filtering options available are:
 
 *	**Only New Segments**: It shows only matches in segments that are not 
