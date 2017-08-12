@@ -9,28 +9,28 @@ ApSIC Xbench features Quality Assurance (QA) functions to perform
 advanced checks on the files defined as ongoing translation.
 The QA functions try to find segments with the following potential problems:
 
-*	Untranslated segments
-*	Segments that have the same source text but a different target text
-*	Segments that have the same target text but a different source text
-*	Segments where the target text matches the source text
-*	Segments with tag mismatches
-*	Segments with number mismatches
-*	Segments with URL mismatches
-*	Segments with alphanumeric mismatches
-*	Segments with unpaired symbols (i.e. unpaired parentheses, square 
-	brackets, or braces)
-*	Segments with unpaired quotes
-*	Segments with double blanks
-*	Segments where words fully in UPPERCASE do not match between 
-	source and target
-*	Segments where words in CamelCase do not match between source 
-	and target 
-*	Segments that deviate from the key terms of the project
-*	Segments that meet the search criteria of items in the Project or 
-	Personal Checklists. See Managing Checklists for more information 
-	about this feature.
-*	If you have installed dictionaries with **Tools->Spell-Checking Dictionaries**,
-	segments with spell-checking issues. 
+* Untranslated segments
+* Segments that have the same source text but a different target text
+* Segments that have the same target text but a different source text
+* Segments where the target text matches the source text
+* Segments with tag mismatches
+* Segments with number mismatches
+* Segments with URL mismatches
+* Segments with alphanumeric mismatches
+* Segments with unpaired symbols (i.e. unpaired parentheses, square 
+  brackets, or braces)
+* Segments with unpaired quotes
+* Segments with double blanks
+* Segments where words fully in UPPERCASE do not match between 
+  source and target
+* Segments where words in CamelCase do not match between source 
+  and target
+* Segments that deviate from the key terms of the project
+* Segments that meet the search criteria of items in the Project or 
+  Personal Checklists. See Managing Checklists for more information 
+  about this feature.
+* If you have installed dictionaries with
+  **Tools->Spell-Checking Dictionaries**, segments with spell-checking issues. 
 
 ![QA tab](/user-guide/dialog-main-window-qa-tab.jpg)
 
@@ -41,14 +41,14 @@ Perform all checks selected in **Check Group** and **List of Checks** by
 clicking **Check Ongoing Translation**. By default all available checks are 
 selected, except **Target same as Source**.
 
-*	Perform *only* the searches defined by the Project Checklists by 
-	clicking on **Run Project Checklists**.
-*	Perform *only* the searches defined by the current Personal Checklists 
-	by clicking on **Run Personal Checklists**. To change the current 
-	Personal Checklists, choose **View->Checklist Manager**.
-*	Export the displayed QA results by right-clicking and choose 
-	**Export QA Results** to the following formats: HTML, tab-delimited text, 
-	Excel, or XML.
+* Perform *only* the searches defined by the Project Checklists by 
+  clicking on **Run Project Checklists**.
+* Perform *only* the searches defined by the current Personal Checklists 
+  by clicking on **Run Personal Checklists**. To change the current 
+  Personal Checklists, choose **View->Checklist Manager**.
+* Export the displayed QA results by right-clicking and choose 
+  **Export QA Results** to the following formats: HTML, tab-delimited text, 
+  Excel, or XML.
 
 {{% notice note %}}
 Please remember that the ApSIC Xbench license does not permit 
