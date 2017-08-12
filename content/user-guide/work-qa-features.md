@@ -37,10 +37,9 @@ The QA functions try to find segments with the following potential problems:
 The Quality Assurance functions are carried out with the **QA**
 tab in the main window. The **QA** tab can perform the following functions:
 
-Perform all checks selected in **Check Group** and **List of Checks** by 
-clicking **Check Ongoing Translation**. By default all available checks are 
-selected, except **Target same as Source**.
-
+* Perform all checks selected in **Check Group** and **List of Checks** by 
+  clicking **Check Ongoing Translation**. By default all available checks are 
+  selected, except **Target same as Source**.
 * Perform *only* the searches defined by the Project Checklists by 
   clicking on **Run Project Checklists**.
 * Perform *only* the searches defined by the current Personal Checklists 
