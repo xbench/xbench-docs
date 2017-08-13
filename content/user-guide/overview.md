@@ -18,7 +18,7 @@ bilingual formats:
   XLIFF, Translation Workspace XLIFF, XTM XLIFF, and other
   flavors of XLIFF (*.xlf, *.xlif, *.xliff, *.xlz, *.mqxlz, *.mqxliff, *.mxliff)
 * TMX memories (*.tmx)
-* TBX/MARTIF glossaries (*.xml, *.tbx, *.mtf) TIPP files (*.tipp)
+* TBX/MARTIF glossaries (*.xml, *.tbx, *.mtf) TIPP files (\*.tipp)
 * Trados exported memories (*.txt)
 * Trados exported MultiTerm 5 glossaries (*.txt)
 * Trados MultiTerm glossaries (*.xml, *.sdltb, *.mdb)
