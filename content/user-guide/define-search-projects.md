@@ -207,7 +207,7 @@ TBX/MARTIF
 <ol>
 <li>
 The <strong>File List</strong> tab appears. Click
-Add File or Add Folder to add files
+<strong>Add File</strong> or <strong>Add Folder</strong> to add files
 or folders of files from the selected
 type. Select all the files of the
 current type in this window. If you
