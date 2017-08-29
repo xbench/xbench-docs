@@ -45,7 +45,7 @@ Welcome to Xbench! Get familiar with Xbench 3.0 and explore its features.
 <h3><a href="/programmer-reference-qa-plugins/implementation-guidelines">Programmer's Reference for QA Plugins</a></h3>
 </td>
 <td>
-<h3><a href="/community-translations/">Translations by the Community</h3>
+<h3><a href="/community-translations/">Translations by the Community</a></h3>
 </td>
 </tr>
 <tr>
