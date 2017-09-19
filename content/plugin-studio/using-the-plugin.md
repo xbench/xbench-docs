@@ -63,13 +63,13 @@ generated Xbench project.
 ![Search results](/plugin-studio/dialog-main-window-search-tab-studio-plugin.png)
 
 When you find an item in the **Search** or **QA** tabs that you want to
-change, simply choose the item, right-click and then choose **Edit Source**.
-You can also press **Ctrl+E** as a shortcut to run the **Edit Source** command.
+change, simply choose the item, right-click and then choose **Edit Segment**.
+You can also press **Ctrl+E** as a shortcut to run the **Edit Segment** command.
 When you do so, SDL Trados Studio will go to the foreground and the
 **Editor** view will open the file right at the segment that you chose in
 ApSIC Xbench.
 
-![Edit Source](/plugin-studio/context-menu-edit-source.png)
+![Edit Segment](/plugin-studio/context-menu-edit-source.png)
 
 Once you have made your change in SDL Trados Studio, you can go
 back to Xbench using the **Alt+Tab** hot key.

@@ -47,7 +47,7 @@ After you click **OK**, the connector will retrieve any required files from the 
 launch an Xbench project ready for QA.
 
 When you find in Xbench a translation issue that you wish to fix, just right-click and then 
-choose **Edit Source** and the Memsource Editor will open right at the segment that needs to be fixed.
+choose **Edit Segment** and the Memsource Editor will open right at the segment that needs to be fixed.
 
 ## Comparing Files in Two Workflow steps with the Connector
 

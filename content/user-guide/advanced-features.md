@@ -118,7 +118,7 @@ Options** pane.
 
 ## Editing the source document
 
-The **Tools->Edit Source** menu item, also attached to the **Ctrl+E**
+The **Tools->Edit Segment** menu item, also attached to the **Ctrl+E**
 key combination, allows you to open the source file to which the entry 
 currently selected belongs. This is very useful to quickly amend an issue 
 detected in an ongoing translation.

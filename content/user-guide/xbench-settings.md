@@ -157,10 +157,10 @@ Settings in this tab are the following:
   from which you sign in to your Xbench account.
 
 The **Text Editor** tab lets you configure command-line arguments for a text editor when using the 
-**Edit Source** feature for search or QA results for a glossary in .txt format. This includes 
+**Edit Segment** feature for search or QA results for a glossary in .txt format. This includes 
 **Tab-delimited Files**, **Trados Exported Memories**, **Wordfast Memories**, and **Wordfast Glossaries**.
 When properly configured, this allows you to open the file directly at the line from which the segment 
-selected with **Edit Source** comes from.
+selected with **Edit Segment** comes from.
 
 ![Text Editor](/user-guide/dialog-settings-text-editor-tab.png)
 
@@ -180,9 +180,9 @@ following in **Command-Line Parameters**: `$filename($line,$column)`. Similarly,
 its executable and specify the following in **Command-Line Parameters**: `$filename -n$line`. Other text editors will 
 require different values for this field. Please check your text editor's documentation for the suitable values.
 
-The **TMX Editor** tab lets you configure command-line arguments for a TMX editor when using the **Edit Source** feature 
+The **TMX Editor** tab lets you configure command-line arguments for a TMX editor when using the **Edit Segment** feature 
 for search or QA results for a glossary in .tmx format. When properly configured, this allows you to open the file 
-directly at the line from which the segment selected with **Edit Source** comes from.
+directly at the line from which the segment selected with **Edit Segment** comes from.
 
 ![TMX Editor](/user-guide/dialog-settings-tmx-editor-tab.png)
 

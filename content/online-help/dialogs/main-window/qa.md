@@ -49,7 +49,7 @@ From this window, you can execute the following checks:
 
 The results are shown in the body window. For some file formats, *you can open
 directly from ApSIC Xbench the file at the segment shown* to correct it by
-right-clicking on it and choosing **Edit Source** or by pressing **Ctrl+E**.
+right-clicking on it and choosing **Edit Segment** or by pressing **Ctrl+E**.
 
 You can limit the scope of the strings considered by the QA process by checking
 the **Only New Segments**, **Only 100% Matches**, or **Exclude ICE Segments**

@@ -25,7 +25,7 @@ step for the QA pass.
 
 ![Xbench Connector](/connector-memsource/dialog-main-window-01.png)
 
-Once in ApSIC Xbench, you can quickly fix issues in your translation, by choosing **Edit Source**, 
+Once in ApSIC Xbench, you can quickly fix issues in your translation, by choosing **Edit Segment**, 
 which will open the Memsource Editor right at the segment that is currently selected in ApSIC Xbench.
 
 The connector also can be used as a quick way to see your Memsource projects progress.

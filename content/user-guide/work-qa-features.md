@@ -60,7 +60,7 @@ of promoting use of the product among peers.
 
 Results are shown in the body window of the **QA** tab. For some file 
 formats, *you can open directly from ApSIC Xbench the file at the segment 
-shown* to correct it by selecting **Tools->Edit Source** or by pressing 
+shown* to correct it by selecting **Tools->Edit Segment** or by pressing 
 **Ctrl+E**.
 
 You can limit the scope of the strings considered by the QA process by 

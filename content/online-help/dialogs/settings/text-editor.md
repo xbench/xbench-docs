@@ -6,13 +6,13 @@ draft: false
 ---
 
 The **Text Editor** tab lets you configure command-line arguments for a text
-editor when using the **Edit Source** feature for search results or QA results
+editor when using the **Edit Segment** feature for search results or QA results
 for a glossary in .txt format. This includes **Tab-delimited Files**,
 **Trados Exported Memories**, **Wordfast Memories**, and
 **Wordfast Glossaries**.
 
 When properly configured, this allows you to open the file directly at the line
-from which the segment selected with **Edit Source** comes from. If you choose
+from which the segment selected with **Edit Segment** comes from. If you choose
 to define a Text Editor, you need to assign values to the following fields:
 
 * **Path to Executable**. This is the path to the .exe file for the text

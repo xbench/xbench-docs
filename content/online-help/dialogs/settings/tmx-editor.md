@@ -6,10 +6,10 @@ draft: false
 ---
 
 The **TMX Editor** tab lets you configure command-line arguments for a TMX
-editor when using the **Edit Source** feature for search results or QA results
+editor when using the **Edit Segment** feature for search results or QA results
 for a glossary in .tmx format. When properly configured, this allows you to open
 the file directly at the line from which the segment selected with
-**Edit Source** comes from. If you choose to define a TMX Editor, you need to
+**Edit Segment** comes from. If you choose to define a TMX Editor, you need to
 assign values to the following fields:
 
 * **Path to Executable**. This is the path to the .exe file for the TMX editor.	  You can use the button with the ellipsis (**...**) to navigate to the .exe
