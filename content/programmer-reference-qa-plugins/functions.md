@@ -105,7 +105,7 @@ None
 Returns a handle for the next QA plug-in function or zero if no more functions
 are present.
 
-###Comments
+### Comments
 After calling GetFirstFunction to obtain the handle for the first function,
 ApSIC Xbench will keep calling GetNextFunction until the result value is 0.
 
@@ -156,11 +156,11 @@ in the same QA plug-in.
 
 ---
 
-## ProcessEnd
+## ProcessEnd
 Notifies the function that the QA process has finished and all allocated
 resources should be freed.
 
-### Syntax
+### Syntax
 	void ProcessEnd(DWORD aHandle)
 
 ### Parameters
@@ -171,7 +171,7 @@ None
 
 ---
 
-## ProcessSegment
+## ProcessSegment
 
 ### Syntax
 Provides the function QA plug-in with a segment to be checked or stored in
