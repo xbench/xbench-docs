@@ -54,6 +54,8 @@ bilingual formats:
 * Passolo glossaries (*.glo)
 * Transifex projects
 * Matecat jobs
+* Google Translator Toolkit documents
+* Smartcat documents
 * Remote Xbench Server glossaries
 
 Reference terminology can be organized in several levels of priority to

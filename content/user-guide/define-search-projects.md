@@ -98,6 +98,11 @@ ApSIC Xbench supports the following file types:
 * **Transifex Project**. An online Transifex project.
 * **Matecat Job**. An online Matecat job, both from www.matecat.com or
   self-hosted.
+* **Google Translator Toolkit File (*.gtt)**. A document downloaded from
+  Google Translator Toolkit (GTT) using the
+  [Xbench Chrome Extension](https://chrome.google.com/webstore/detail/apsic-xbench-extension/hocobnhnpniphphccgaliheohnobbdjo)
+  or the
+  [Xbench Chrome Extension for GTT](https://chrome.google.com/webstore/detail/apsic-xbench-extension-fo/nhadbgflnognogbicnbeepnbpehlocgc).  
 * **Remote Xbench Server**. A reference to a Remote ApSIC Xbench
   Server.
 
