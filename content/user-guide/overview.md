@@ -56,6 +56,7 @@ bilingual formats:
 * Matecat jobs
 * Google Translator Toolkit documents
 * Smartcat documents
+* XTM documents
 * Remote Xbench Server glossaries
 
 Reference terminology can be organized in several levels of priority to
