@@ -27,7 +27,7 @@ bilingual formats:
 * Trados Studio files (*.sdlxliff, *.sdlproj)
 * Trados Studio memories (*.sdltm)
 * memoQ files, including hand-off and hand-back packages (*.mqxlz,
-*.mqxliff, *.mqout, *.mqback)
+*.mqxliff, *.mqout, *.mqback) (see [demo video](https://www.youtube.com/watch?v=ECAPbKtCiJY) for memoQ integration)
 * memoQ termbases in CSV format
 * SDLX ITD files (*.itd). Note: This option requires that SDLX is
   installed on the machine.
@@ -52,11 +52,11 @@ bilingual formats:
 * Mac OS X glossaries (*.ad, *.lg)
 * Qt Linguist files (*.ts)
 * Passolo glossaries (*.glo)
-* Transifex projects
-* Matecat jobs
-* Google Translator Toolkit documents
-* Smartcat documents
-* XTM documents
+* Transifex projects (see [demo video](https://www.youtube.com/watch?v=p-gf-RyH1jk) for Transifex integration)
+* Matecat jobs (see [demo video](https://www.youtube.com/watch?v=a8j5O4JYarQ) for Matecat integration)
+* Google Translator Toolkit documents (see [demo video](https://www.youtube.com/watch?v=Ghafpx_wQXw) for GTT integration)
+* Smartcat documents (see [demo video](https://www.youtube.com/watch?v=ASxh-LvJM8M) for Smartcat integration)
+* XTM documents (see [demo video](https://www.youtube.com/watch?v=VexB2pZIxO4) for XTM integration)
 * Remote Xbench Server glossaries
 
 Reference terminology can be organized in several levels of priority to
