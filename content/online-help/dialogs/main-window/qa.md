@@ -16,7 +16,7 @@ issues in the translation:
   untranslated text). This option is disabled by default.
 * Segments with tag mismatches
 * Segments with number mismatches
-* Segments with URL mismatches
+* Segments with URL or email mismatches
 * Segments with alphanumeric mismatches
 * Segments with unpaired symbols (i.e. unpaired parentheses, square brackets,
   or braces)

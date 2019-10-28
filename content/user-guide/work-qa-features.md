@@ -15,7 +15,7 @@ The QA functions try to find segments with the following potential problems:
 * Segments where the target text matches the source text
 * Segments with tag mismatches
 * Segments with number mismatches
-* Segments with URL mismatches
+* Segments with URL or email mismatches
 * Segments with alphanumeric mismatches
 * Segments with unpaired symbols (i.e. unpaired parentheses, square 
   brackets, or braces)

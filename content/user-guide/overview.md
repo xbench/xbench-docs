@@ -93,7 +93,7 @@ ApSIC Xbench project, you can run the following QA checks:
 untranslated text)
 * Find tag mismatches
 * Find number mismatches
-* Find URL mismatches
+* Find URL or email mismatches
 * Find alphanumeric mismatches
 * Find unpaired symbols (i.e. unpaired parentheses, square brackets, or
 braces)
