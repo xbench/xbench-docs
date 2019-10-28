@@ -34,7 +34,7 @@ issues in the translation:
   more information about this feature.
 * Spell-checking issues
 
-From this window, you can execute the following checks:
+From this window, you can do these tasks:
 
 * Perform all checks selected in **Check Group** and **List of Checks** by
   clicking **Check Ongoing Translation**.
@@ -42,7 +42,7 @@ From this window, you can execute the following checks:
   **Run Project Checklists**.
 * Perform only the checks defined by the Personal Checklists by clicking
   **Run Personal Checklists**.
-* Mark issues to filter them out or in.
+* Mark issues to filter them out or in, and optionally save marked issues for future use.
 * Export the displayed QA Results by right-clicking and choose
   **Export QA Results** to the following formats: HTML, tab-delimited text,
   Excel, or XML.

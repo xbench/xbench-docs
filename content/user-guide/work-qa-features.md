@@ -82,6 +82,12 @@ example, to quickly ignore and hide false alarms from the list of results,
 one good set-up is to choose **Hide Marked** and then mark issues as you 
 process the list.
 
+You can save your current QA marks in a *.xbmrk* file for later reuse.  For
+example, if you have a recurring project that includes the same file in each,
+you can choose **Save Current Marks** to save your marks. Later, when the
+project comes again, you can choose **Load Marks** so that you do not have to mark
+again the issues that you maked in.
+
 {{% notice note %}}
 The **Export QA Results** command only exports displayed issues
 (it does not export hidden issues).

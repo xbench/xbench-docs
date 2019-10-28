@@ -18,3 +18,5 @@ See Context. Shows the segments that appear before and after the segment highlig
 *	**Mark/Unmark Issue**. Marks or removes the mark of the highlighted issue.
 *	**Mark All Issues**. Marks all issues in the QA results.
 *	**Clear All Marks**. Removes all marks in all issues in the QA results.
+*   **Save Current Marks**. Saves the current marks to an *.xbmrk* file for later retrieval.
+*   **Load Marks**. Loads marks from a previously save *.xbmrk* file. 
