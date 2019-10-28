@@ -64,8 +64,8 @@ shown* to correct it by selecting **Tools->Edit Segment** or by pressing
 **Ctrl+E**.
 
 You can limit the scope of the strings considered by the QA process by 
-checking the **Only New Segments**, **Only 100% Matches**, or 
-**Exclude ICE Segments** check boxes. 
+checking the **Only New Segments**, **Only 100% Matches**, 
+**Exclude ICE Segments**, or **Exclude Locked Segments** check boxes. 
 
 You can also make the consistency check mode case-sensitive by 
 checking the **Case-sensitive Inconsistencies** check box.

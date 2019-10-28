@@ -101,6 +101,9 @@ narrow the scope for the search. The filtering options available are:
 	been defined as ongoing translation in the project properties.
 *	**Exclude ICE Segments**: It excludes In-Context Exact Matches (also 
 	known as 101% matches or Perfect Matches) from the search results.
+*	**Exclude Locked Segments**: It excludes locked segments from the
+    search results.
+
 
 ## Seeing the context
 

@@ -16,5 +16,5 @@ The **Filtering** section has the following fields:
 *	**Untranslated items**. This allows exporting only the untranslated items. This is useful for example to feed a
 	translation machine engine.
 
-You can also remove the repetitions from the exported file to reduce its size by checking the **Remove repetitions in exported file**
-check box, or exclude the ICE (In-Context Exact matches) segments by checking the **Exclude ICE segments** check box.
+You can also remove the repetitions from the exported file to reduce its size by checking the
+**Remove repetitions in exported file** check box, exclude ICE (In-Context Exact matches) segments by checking the **Exclude ICE segments** check box, or exclude locked segments by checking the **Exclude loocked segments** check box.

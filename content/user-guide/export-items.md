@@ -17,7 +17,7 @@ To export the contents of a project choose **Tools**->**Export Items**. The foll
 
 In this dialog, you can export all items in a project, all items in the current query, only the items displayed in the current query (for example, if you are in overview mode, you only see a few items from each priority level), or all the items of a glossary that is a member of the project.
 
-If you wish, you can remove the repetitions (items that have exactly the same source and target values) from the exported data to reduce the size of the resulting file. You can also exclude the ICE (In-Context Exact matches) segments from the search.
+If you wish, you can remove the repetitions (items that have exactly the same source and target values) from the exported data to reduce the size of the resulting file. You can also exclude ICE (In-Context Exact matches) segments or locked segments from the search.
 
 Additionally, you can limit the export to only untranslated items (for example to facilitate the feed to a machine translation system) or to only translated items. If you choose to export only the translated items, you can further specify if you wish to export only the pretranslated items (that is, items retrieved from a translation memory) or newly translated items.
 
