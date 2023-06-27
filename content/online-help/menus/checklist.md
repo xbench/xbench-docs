@@ -19,3 +19,13 @@ The **Checklist** menu has the following items:
 
 **Remove**. Removes the selected checklist for the personal or project checklists. It does not delete the checklist from disk.
 
+**Checklist item**. Submenu for managing items in a checklist:
+
+*	**New**. Creates a new Checklist Item.
+*	**Edit**. Lets the user edit the selected Checklist Item.
+*	**Test**. Runs the selected Checklist Item.
+*	**Override**. Overrides a Checklist Item from a parent Checklist.
+*	**Disable**. Disables the selected Checklist Item.
+*	**Copy**. Copies the selected Checklist Item into the clipboard.
+*	**Paste**. Pastes a Checklist Item from the clipboard.
+*	**Delete**. Deletes the selected Checklist Item.

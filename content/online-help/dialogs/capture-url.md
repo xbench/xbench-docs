@@ -10,7 +10,7 @@ tab to add it to the list of pattern URLs accessible in the **Internet** tab.
 
 If the URL contains your test search string, it is recommended that you replace that string with a **%s**. 
 For example, if you go to www.dictionary.com , search for "call" and then select **Capture URL** you will get
-the following value in URL:
+the following value in **URL**:
 
 http://dictionary.reference.com/browse/call
 
@@ -18,5 +18,7 @@ You will notice that the word "call" appears in the URL above. You can now chang
 the URL for generic searches:
 
 http://dictionary.reference.com/browse/%s
+
+You can enter a descriptive name for this URL in the **Name** field.
 
 By clicking **OK**, the entry is added to the URL list in **Tools->Settings->Internet**.

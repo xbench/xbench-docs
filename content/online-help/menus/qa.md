@@ -12,9 +12,11 @@ The **QA** menu has the following items:
 *	**Run Project Checklists**. Runs all checklists attached to the Project Checklist in **Checklist Manager** against all files defined as ongoing translation.
 *	**Run Personal Checklists**. Runs all checklists under Personal Checklist in Checklist Manager against all files defined as ongoing translation.
 *	**Export QA Results**. Exports the issues shown in the result list to one of the following formats: tab-delimited text file, HTML, Excel, or XML. 
-See Context. Shows the segments that appear before and after the segment highlighted in the results.
+*	**See Context**. Shows the segments that appear before and after the segment highlighted in the results.
 *	**Edit Segment**. Opens the file son that it can be edited. For some formats, such as Trados TagEditor, SDLX, IBM Translation Manager, Memsource, Transifex or Matecat, the file opens at the segment highlighted. 
 *	**Edit Checklist Item**. Opens item in the checklist that generated this issue.
 *	**Mark/Unmark Issue**. Marks or removes the mark of the highlighted issue.
 *	**Mark All Issues**. Marks all issues in the QA results.
 *	**Clear All Marks**. Removes all marks in all issues in the QA results.
+*	**Load Marks**. Loads the mark status for all issues from a file.
+*	**Save Current Marks**. Saves the mark status for all issues to a file.

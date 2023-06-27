@@ -11,6 +11,7 @@ by using **Project->Save As**.
 
 You can add files into the project by clicking **Add**, or simply by dragging and dropping a file 
 or directory on the **Glossary List** and then selecting its type and properties in the window that appears.
+Files can be removed by clicking the **Remove** button.
 
 You can increase or decrease the priority of a glossary by clicking on the plus (+) or minus (-) 
 buttons that appear on the lower part of the window. You can also change the order of files within 
@@ -24,5 +25,5 @@ the QA function only consider files marked as ongoing translation.
 
 This dialog allows you set a few common glossary properties for one or more items without having to 
 click the **Properties** button for each item. To do so, simply chose one or more glossaries and then 
-select the **Key Terms**, **Ongoing Translation**, **Remove Duplicates**, and **Auto-Refresh** check boxes.
-
+select the **Key Terms**, **Ongoing Translation**, **Remove Duplicates**, **Swap Languages**, and
+**Auto-Refresh** check boxes.

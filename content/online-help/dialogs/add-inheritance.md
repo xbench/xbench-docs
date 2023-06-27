@@ -5,4 +5,4 @@ weight: 41
 draft: false
 ---
 
-This dialog allows you to define an inheritance relationship. You can assign a name to the inherited checklist and specify the file that contains it.
+This dialog allows you to define an inheritance relationship. You can assign a name in **Name** to the inherited checklist, and specify the file that contains it in the **File Name** field.
