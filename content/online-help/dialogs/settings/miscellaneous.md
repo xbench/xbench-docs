@@ -31,10 +31,11 @@ You can define here the following settings:
   word in the segment target text. For declined languages you will reduce false
   alarms if you leave this check box unchecked.
 * **Show metadata in exported QA reports**. When enabled, ApSIC Xbench will show
-  the segment metadata in the Comments column of the exported QA report. 
+  the segment metadata in the Comments column of the exported QA report.
+* **Open QA Report file after exporting**. When enabled, the exported QA report file will be automatically open.
 * **Default project directory**. This field allows you to specify the default
   folder for your ApSIC Xbench projects.
-* **Manage Cloud Settings**. This button allows you to set which Xbench
-  settings, such as URLs or colors, should be replicated to the cloud so that
-  they are also available in other computers from which you sign in to your
-  Xbench account.
+
+* **Manage Cloud Settings**. This button opens the dialog to configure Cloud Settings:
+  * **Store Settings in the Cloud**: When enabled, a copy of your Xbench configuration will be stored in the cloud. That makes it available from other computers using the same Xbench account, and makes life easier in case of a reinstallation.
+  * **Include Transifex Credentials and Settings**: When enabled, your Transifex username and password will also be stored in the cloud. Uncheck if you don’t want your credentials to be automatically retrieved on all Xbench instances using this account.

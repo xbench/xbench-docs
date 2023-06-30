@@ -30,6 +30,8 @@ The **Project** menu has the following menu items:
 *	**Refresh Content**. Updates all modified files in the current project with the latest 
 	information from disk, excluding those defined as **Do not reload with Refresh (F5)** in the 
 	project's properties.
+*	**Change User...** Allows the user to use another Xbench account.
+*	**Change Password...** Allows the change the password for the Xbench account.
 *	**Close Window**. Closes the current window. Please note that this action does 
 	not close the application, it simply hides the window. You can make the window appear 
 	again in several ways, but normally with the key combination **Ctrl+Alt+Insert**.

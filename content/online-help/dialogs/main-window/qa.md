@@ -52,10 +52,23 @@ directly from ApSIC Xbench the file at the segment shown* to correct it by
 right-clicking on it and choosing **Edit Segment** or by pressing **Ctrl+E**.
 
 You can limit the scope of the strings considered by the QA process by checking
+<<<<<<< HEAD
 the **Only New Segments**, **Only 100% Matches**, **Exclude ICE Segments**, or **Exclude Locked Matches** check boxes. 
+=======
+the **Only New Segments**, **Only 100%+ Segments**, **Exclude Locked Segments**,
+or **Exclude ICE Segments** check boxes. 
+>>>>>>> 6f39e3485308e374b958f3a9b5c61093acc73dd2
 
 You can also make the source and target consistency checks mode case-sensitive
-by checking the **Case-sensitive Inconsistencies** check box.
+by checking the **Case-sensitive Inconsistencies** check box, or the mode for
+Keyterms with the **Case-sensitive Key Terms** check box.
 
 You can ignore tags by checking **Ignore Tags**. This allows you to find
 inconsistencies that differ on tags but not in source or target text.
+
+You can press Ctrl+M to set or clear a mark on the selected issue. You can
+then choose which ones shall be displayed with the **Filter Issues** setting:
+**Show All**, **Show Marked**, or **Hide Marked**. Marks can be all cleared
+with the **Clear All Marks** button, or saved and loaded from file with the
+**Save Current Marks** and **Load Marks** options by clicking on the
+**Manage Marks** button.

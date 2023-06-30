@@ -22,6 +22,7 @@ The fields in this dialog are the following:
 	*	If the search should match whole words
 	*	If the leading and trailing whitespace of the search string must be trimmed or preserved
 	*	If the whitespace should be normalized
+	*	If the native chars should be normalized
 *	**Target**. The search criteria that applies to the target text, including:
 	*	The search expression
 	*	The search mode (Simple, Regular Expression, MS Word Wildcard)
@@ -29,3 +30,6 @@ The fields in this dialog are the following:
 	*	If the search should match whole words
 	*	If the leading and trailing whitespace of the search string must be trimmed or preserved
 	*	If the whitespace should be normalized
+	*	If the native chars should be normalized
+
+Click **OK** to save the item.

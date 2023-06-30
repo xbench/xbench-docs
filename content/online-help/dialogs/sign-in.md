@@ -9,10 +9,11 @@ This dialog allows you to enter ApSIC Xbench using your credentials.
 
 To create a new account, click the blue **Sign Up** link.  If you already
 created an account in the past (for example for an ApSIC Xbench trial), enter
- your email in the Email field and then click the blue **Forgot Password?**
+ your email in the **Email** field and then click the blue **Forgot Password?**
  link.
 
-Once you have an account, enter your email and password and click **Sign In**.
+Once you have an account, enter the **Email** and **Password** fields and
+click **Sign In**.
 
 If you leave the **Remember me** checked, ApSIC Xbench will not ask you for
 your credentials every time you enter ApSIC Xbench.

@@ -7,4 +7,9 @@ draft: false
 
 This dialog allows you to change your password.
 
-Enter the current password and then enter the new password twice.
+* **Email**. Xbench account you will to change the password to.
+* **Current password**. Current password of the account.
+* **New password**. Type the password you want to be assigned to the Xbench account.
+* **Re-enter new password**. Type again the new password, as a validation.
+
+Click the **Change Password** button to submit que password change request.

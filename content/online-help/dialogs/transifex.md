@@ -14,6 +14,5 @@ copy and paste the URL here. For example if you open the Tor Project project in 
 (https://www.transifex.com/projects/p/torproject/) and copy and paste the URL in the field, Xbench will 
 parse to get the project slug, "torproject".
 
-Once you have connected to a Transifex project, you can choose a language from the list of languages 
-available the project and then click **OK** to load the project strings.
-
+Once you have connected to a Transifex project, you can choose a language from the **Language** list
+and then click **OK** to load the project strings.

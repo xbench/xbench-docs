@@ -42,7 +42,8 @@ The **File Type** tab lets you add a bilingual corpus with any of the following 
 *	**Wordfast Pro TXML/TXLF (*.txml, *.txlf)**. A Wordfast Pro bilingual file, with the *.txml or *.txlf extension.
 *	**Déjà Vu X/Idiom File (*.wsprj, *.dvprj, *.dvsat, *.dvpng)**. A Déjà Vu or Idiom database of project translation files, with 
 	extensions .wsprj, .dvprj, .dvsat, or .dvpng.
-*	**Déjà Vu X/Idiom Memory (*.wstm, *.dvmdb)**. A Déjà Vu or Idiom translation memory, with extensions .dvmdb or .wstm.
+*	**Déjà Vu X/Idiom Memory/Alignment (*.wstm, *.dvmdb, *.dvapr)**. A Déjà Vu or Idiom translation memory or alignment, with extensions
+.dvmdb, .wstm or .dvapr.
 *	**Déjà Vu X/Idiom Termbase (*.wstd, *.dvtdb)**. A Déjà Vu or Idiom termbase, with extensions .dvtdb or .wstd.
 *	**Logoport RTF (*.rtf)**. An individual Logoport .rtf file or a directory containing Logoport .rtf files.
 *	**Microsoft Glossary (*.csv)**. A Microsoft software glossary, made publicly available by Microsoft via MSDN and containing all 
@@ -52,6 +53,7 @@ The **File Type** tab lets you add a bilingual corpus with any of the following 
 *	**Passolo Glossary (*.glo)**. A Passolo glossary, with *.glo extension.
 *	**Transifex Project**. An online Transifex project.
 *	**Matecat Job**. An online Matecat job, both from [www.matecat.com]<(https://www.matecat.com) or self-hosted.
+*	**Google Polyglot/Translator Toolkit File (.xbgtt; .xbpol)**. A file exported from Google Polyglot or GTT with the corresponding Chrome extension.
 *	**Remote Xbench Server**. A reference to a Remote ApSIC Xbench Server.
 
 Please select the format of the bilingual corpus that your are adding and then click **Next** to continue.

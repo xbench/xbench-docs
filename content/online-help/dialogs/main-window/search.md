@@ -41,14 +41,18 @@ the following search settings are available:
   results, it shows all search results.
 * **Only New Segments**: When checked, it shows only matches in segments that
   are not 100% matches.
-* **Only 100% Matches**: When checked, it shows only matches in segments thatç
+* **Only 100%+ Segments**: When checked, it shows only matches in segments that
   are 100% matches.
 * **Only Ongoing Translation**: When checked, it shows only matches in files
   that have been defined as ongoing translation in the project properties.
 * **Exclude ICE Segments**: When checked, it excludes In-Context Exact Matches
   (also known as 101% matches or Perfect Matches) from the search results.
+<<<<<<< HEAD
 * **Exclude Locked Segments**: When checked, it excludes locked segments
   from the search results.  
+=======
+* **Exclude Locked Segments**: When checked, it excludes Locked segments from the search results.
+>>>>>>> 6f39e3485308e374b958f3a9b5c61093acc73dd2
 * **Ignore Tags**: When checked, it excludes matches that are found within
   tags.
 

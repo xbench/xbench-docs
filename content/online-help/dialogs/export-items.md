@@ -24,13 +24,18 @@ The **Selection** section has the following fields:
 The **Filtering** section has the following fields:
 
 *	**Translated items**. Only the items flagged as already translated will be exported. This option can be further
-	filtered to export only the **Pretranslated Items** or only the **Newly Translated Items**.
+	filtered to export only the **100%+ segments** or only the **New segments**.
 *	**Untranslated items**. This allows exporting only the untranslated items. This is useful for example to feed a
 	translation machine engine.
 
 You can also remove the repetitions from the exported file to reduce its size by checking the **Remove repetitions in exported file**
+<<<<<<< HEAD
 check box, exclude ICE (In-Context Exact matches) segments by checking the **Exclude ICE segments** check box, or exclude locked segments by checking the
 **Exclude loocked segments** check box.
+=======
+check box, exclude the ICE (In-Context Exact matches) segments by checking the **Exclude ICE segments** check box,
+or exclude the Locked segments by checking the **Exclude Locked segments** check box.
+>>>>>>> 6f39e3485308e374b958f3a9b5c61093acc73dd2
 
 The **Output** section has the following fields.
 
@@ -51,9 +56,8 @@ language and country in the **Language Selection** dialog.
 
 If you select **Tab-delimited Text File** or **XLSX Excel File** in the **Format** field, the following fields appear:
 
-*	**Use text instead of numbers for 'Glossary Type' and 'Item Type' fields**. Besides the **Source** and **Target** fields, 
-	the **Tab-delimited Text File** and **XLSX Excel File** exports also add a few additional columns with more information
-	on the entry. You have the choice to store numbers or text in two of these additional fields.
+*	**Number of data columns to export**. You can set the maximum number of extra columns that you want exported, besides the **Source** and **Target** fields.
+*	**Use text instead of numbers for 'Glossary Type' and 'Item Type' fields**. You have the choice to store either numbers or text in two of these additional fields.
 *	**Add a header in first row**. Check this check box to include a first line with the names of the fields.
 
 If you select **DOCX Word File**, the format of the report generated will be the same obtained by choosing **Tools->Export Ongoing Translation to MS Word**.

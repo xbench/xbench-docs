@@ -16,7 +16,7 @@ The fields in this window are:
   box, as the maximized mode is the one that provides the maximum amount
   of information at the same time.
 
-* **Internet Hotkeys / Open in default browser**. When checked, it opens in
+* **Internet Search / Open in Default Browser**. When checked, it opens in
   your default browser the Internet query associated to the hotkey (for
   example, Ctrl+Alt+1 or Ctrl+Alt+2), instead of opening it in ApSIC Xbench
   embedded browser. For example, if you have the first configured entry of
