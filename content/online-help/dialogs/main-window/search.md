@@ -47,12 +47,7 @@ the following search settings are available:
   that have been defined as ongoing translation in the project properties.
 * **Exclude ICE Segments**: When checked, it excludes In-Context Exact Matches
   (also known as 101% matches or Perfect Matches) from the search results.
-<<<<<<< HEAD
-* **Exclude Locked Segments**: When checked, it excludes locked segments
-  from the search results.  
-=======
 * **Exclude Locked Segments**: When checked, it excludes Locked segments from the search results.
->>>>>>> 6f39e3485308e374b958f3a9b5c61093acc73dd2
 * **Ignore Tags**: When checked, it excludes matches that are found within
   tags.
 

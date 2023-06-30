@@ -29,13 +29,8 @@ The **Filtering** section has the following fields:
 	translation machine engine.
 
 You can also remove the repetitions from the exported file to reduce its size by checking the **Remove repetitions in exported file**
-<<<<<<< HEAD
-check box, exclude ICE (In-Context Exact matches) segments by checking the **Exclude ICE segments** check box, or exclude locked segments by checking the
-**Exclude loocked segments** check box.
-=======
 check box, exclude the ICE (In-Context Exact matches) segments by checking the **Exclude ICE segments** check box,
 or exclude the Locked segments by checking the **Exclude Locked segments** check box.
->>>>>>> 6f39e3485308e374b958f3a9b5c61093acc73dd2
 
 The **Output** section has the following fields.
 

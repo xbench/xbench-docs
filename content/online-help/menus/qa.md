@@ -18,10 +18,5 @@ The **QA** menu has the following items:
 *	**Mark/Unmark Issue**. Marks or removes the mark of the highlighted issue.
 *	**Mark All Issues**. Marks all issues in the QA results.
 *	**Clear All Marks**. Removes all marks in all issues in the QA results.
-<<<<<<< HEAD
 *   **Save Current Marks**. Saves the current marks to an *.xbmrk* file for later retrieval.
 *   **Load Marks**. Loads marks from a previously save *.xbmrk* file. 
-=======
-*	**Load Marks**. Loads the mark status for all issues from a file.
-*	**Save Current Marks**. Saves the mark status for all issues to a file.
->>>>>>> 6f39e3485308e374b958f3a9b5c61093acc73dd2

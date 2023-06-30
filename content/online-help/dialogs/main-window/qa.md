@@ -52,12 +52,8 @@ directly from ApSIC Xbench the file at the segment shown* to correct it by
 right-clicking on it and choosing **Edit Segment** or by pressing **Ctrl+E**.
 
 You can limit the scope of the strings considered by the QA process by checking
-<<<<<<< HEAD
-the **Only New Segments**, **Only 100% Matches**, **Exclude ICE Segments**, or **Exclude Locked Matches** check boxes. 
-=======
 the **Only New Segments**, **Only 100%+ Segments**, **Exclude Locked Segments**,
 or **Exclude ICE Segments** check boxes. 
->>>>>>> 6f39e3485308e374b958f3a9b5c61093acc73dd2
 
 You can also make the source and target consistency checks mode case-sensitive
 by checking the **Case-sensitive Inconsistencies** check box, or the mode for
